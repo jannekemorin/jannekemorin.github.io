@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Janneke Morin"
-  avatar           : Jazzy.pg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : Jazzy.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring computer scientist. Junior at the College of Charleston. Avid runner, hiker, and animal-lover."
   location         : "Killington, Vermont"
   email            : jannekemorin@gmail.com
@@ -114,9 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/jannekemorin
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/janneke-m-51b483102/
 
 # Site Footer
 footer:
