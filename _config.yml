@@ -197,10 +197,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  toc: true
-  toc_label: "Table of Contents"
-  toc_icon: "heart"
-  search: true
 
 
 # Sass/SCSS
@@ -283,3 +279,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon: "heart"
+      search: true
