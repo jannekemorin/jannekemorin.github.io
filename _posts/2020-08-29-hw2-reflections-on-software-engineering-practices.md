@@ -2,11 +2,6 @@
 layout: posts
 title:  "HW2: Reflections on software engineering practices"
 ---
-#### This week's readings:
-* **Essence and Accidents of Software Engineering** by Frederick P. Brooks, Jr. 
-* **Cherry-Picking and the Scientific Method** by George V. Neville-Neil
-* **Why Google Stores Billions of Lines of Code in a Single Repository** by Rachel Potvin and Josh Levenberg
-
 #### The Complexity of Software and Its Evolution
 Software is, by definition, complex. Frederick P. Brooks, in his article "Essence and Accidents of Software Engineering," describes the essence of a software entity as "a construct of interlocking concepts: data sets, relationships among data items, algorithms, and invocations of functions." 
 
