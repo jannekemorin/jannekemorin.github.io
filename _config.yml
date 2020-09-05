@@ -270,8 +270,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_pages"
-      type: pages
+      path: "_posts"
+      type: posts
     values:
       layout: single
       author_profile: true
