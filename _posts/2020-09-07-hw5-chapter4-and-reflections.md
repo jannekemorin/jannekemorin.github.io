@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "HW5: Chapter 4 and Reflections"
+title:  "HW5: Chapter 4 and reflections"
 ---
 #### 4.5: Using the technique suggested here, where natural language descriptions are presented in a standard format, write plausible user requirements for the following functions:
 #### An unattended petrol (gas) pump system that includes a credit card reader. The customer swipes the card through the reader, then specifies the amount of fuel required. The fuel is delivered and customer's account debited.
