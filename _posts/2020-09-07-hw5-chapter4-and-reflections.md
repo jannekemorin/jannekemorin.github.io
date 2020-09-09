@@ -26,6 +26,7 @@ title:  "HW5: Chapter 4 and reflections"
 
 
 #### 4.6 Suggest how an engineer responsible for drawing up a system requirements specification might keep track of the relationships between functional and non-functional requirements.
+According to Chapter 4, Requirements Engineering, functional requirements describe what the system should do while non-functional requirements specify or constrain characteristics of the system. After thinking about this a bit, it seems like each non-functional requirement should be mapped to at least one functional requirement that it specifies. Many non-functional requirements will support multiple functional requirements. Hence, I would suggest that an engineer uses software like AirTable or Notion that can create complex tables for keeping track of relationships between items. For example, if a row in the table is taken as a non-functional requirement, a multi-select column could allow the user to input all of the functional requirements it supports. This way, using the sorting and filtering functions of the software (AirTable or Notion), the engineer could easily display all non-functional requirements that support a certain requirement or all functional requirements supported by a non-functional requirement. This would also provide several other "views" such as a Kanban board that the engineer could use to visualize the requirements as a whole.
 
 
 #### 4.7 Using your knowledge of how an ATM is used, develop a set of use cases that could serve as a basis for understanding the requirements for an ATM system.
