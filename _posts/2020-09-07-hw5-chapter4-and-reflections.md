@@ -34,7 +34,7 @@ According to Chapter 4, Requirements Engineering, functional requirements descri
 2. *Deposit:* a customer feeds his/her card to the ATM, then selects the option to deposit on the UI. He/she inputs the money into the machine. The machine tallies it up, rejecting any fraudulent or unreadable bills. Then, it processes the deposit in the electronic system.
 3. *Multiple transactions:* a customer makes a deposit or withdrawal, then opts to complete another transaction. The machine keeps the card and restarts the transaction selection process. After a certain number of depsoits/withdrawals determined by the bank, the ATM rejects any further transactions and investigates potential fraud.
 4. *Cancellations:* a customer is in the middle of completing a transaction, then decides to cancel it. The ATM returns the card and resets to its new customer mode. If the user fails to retrieve the card, the machine swallows it back up so the administrator can call the customer to retrieve it.
-5. *Suspcious activity*: a customer would like to withdraw an unusual amount of money (or all of the money in his/her account). The ATM detects this as suspcious and sends a note that the customer should visit the nearest bank to complete this transaction. 
+5. *Suspicious activity*: a customer would like to withdraw an unusual amount of money (or all of the money in his/her account). The ATM detects this as suspicious and sends a note that the customer should visit the nearest bank to complete this transaction. 
 
 
 
