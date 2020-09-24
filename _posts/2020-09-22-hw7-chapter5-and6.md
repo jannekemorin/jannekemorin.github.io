@@ -12,6 +12,7 @@ title:  "HW7: Chapter 5 and 6"
 ![](https://github.com/jannekemorin/jannekemorin.github.io/blob/master/assets/images/5.7.png?raw=true)
 
 #### 5.8: Draw a sequence diagram for the same system. Explain why you might want to develop both activity and sequence diagrams when modeling the behavior of a system.
+It's certainly useful to develop both diagram types. I noticed that the sequence diagrams give a better picture of how the systems (database, user, authorization checkpoints, etc.) interact while the activity diagrams delve deeper into the specific way that they interact. In this sense, the two types of diagrams complement each other.
 ![](https://github.com/jannekemorin/jannekemorin.github.io/blob/master/assets/images/5.8.png?raw=true)
 
 #### 6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:
