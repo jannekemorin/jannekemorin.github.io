@@ -13,5 +13,8 @@ Currently, I work as a Technical Operations Specialist at Ceterus, an accounting
 Although I enjoy spending time behind the computer, some of my other hobbies include running, hiking, and going outdoors with friends in general. I’m also a huge animal lover and have four lab-mixes here at home.
 
 
+
 Looking forward to getting to know you,
+
+
 Janneke
