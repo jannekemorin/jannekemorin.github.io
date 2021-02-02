@@ -4,14 +4,17 @@ title:  "This bugs me"
 ---
 ## 6.4. Exercise - Find the Oldest Bug
 **Find the oldest bug that's still open in your chosen project. Write a blog entry describing the problem, with a theory about why the bug hasn't been resolved yet. (Bonus points if you can actually resolve the bug.)**
+
 The oldest open Zulip Github issue is titled ["Replace memcached with redis"](https://github.com/zulip/zulip/issues/16). It was opened on September 25, 2015, so it's been open for more than five years. I believe what has kept this issue open for so long is that it's more of an improvement than it is a bug. 
 
 Some users would like to change the Django caching type from Memcached to Redis. The idea is that this would trim Zulip's runtime by removing an extra remote cache and Zulip's installation dependency. 
 
 In June 2017, a [pull request](https://github.com/zulip/zulip/pull/5224) that aimed to resolve this issue was created. However, the leader of the Zulip community, Tim Abbott, commented on this request that "[he is] much more interested in an implementation that makes this an option (so we can offer a sane migration path) than something that just flips this over." 
 
+
 ## 6.5. Exercise - Create Your Bug Tracker Account
 **Figure out how to create a new account on the bug tracker of your chosen project. You'll need that account very soon.**
+
 My chosen project, Zulip, does not seem to have a bug tracker outside of github.com, which I already have an account on, of course. Specifically, they use [Github Issues](https://github.com/zulip/zulip/issues) for bug tracking.
 
 ## 6.6.1. Exercise - Reproduce a Bug
