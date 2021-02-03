@@ -39,5 +39,6 @@ This was the trickiest exercise of all. I wasn't able to find any project-specif
 3. Guaranteeing proper severity and/or priority
 4. Ensuring that the bug is sensible and helpful to developers
 5. Ensuring that the bug is filed against the correct component, with the correct version
+
 I  looked through some bugs in the new state and did not feel comfortable completing these steps without being able to locate the triage rules for Zulip. It seems the main contributor and leader of the project, Tim Abbott, is typically the first to jump in on issues. He is usually quick to respond, so these few bugs in the new state are recent. Nonetheless, it was useful to learn about general triage steps as this is software engineering concept is new to me.
 
