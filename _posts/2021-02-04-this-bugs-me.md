@@ -23,9 +23,9 @@ My chosen project, Zulip, does not seem to have a bug tracker outside of github.
 
 For this exercise, I decided to try to reproduce a bug that I identified as a potential issue for my team to fix. We wrote a bit about the initial triage of this bug on our [team wiki](https://github.com/CSCI-462-02-2021/404-Name-Not-Found/wiki/Ideas-for-Contributing-to-Project). Essentially, this bug does not capture filters when the search term precedes them in the search query. See the images below in my reproduction of this bug in the development environment: 
 
-<img src="https://github.com/jannekemorin/jannekemorin.github.io/blob/master/assets/images/autocomplete.png" width="500">
+![](https://github.com/jannekemorin/jannekemorin.github.io/blob/master/assets/images/autocomplete.png)
 
-<img src="https://github.com/jannekemorin/jannekemorin.github.io/blob/master/assets/images/autocomplete.png" width="500">
+![](https://github.com/jannekemorin/jannekemorin.github.io/blob/master/assets/images/autocomplete.png)
 
 The first image displays the behavior of Zulip in the handled case - when the search filter precedes the search term "research". It auto-suggests "Desdemona" as a sender. The second image displays its behavior in the unhandled exception. That is, when the search term "research" is typed in before the filter for the sender, the search does not autosuggest "Desdemona" when we begin to type it. It fails to recognize "sender:" as a filter. I tested this with several other search terms and types of filters to come to the same conclusion. Reproducing this bug was the first step to working on resolving it. This was a great exercise to get me started on my first bug fix!
 
