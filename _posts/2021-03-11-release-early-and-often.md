@@ -2,7 +2,7 @@
 layout: posts
 title:  "Release early and often"
 ---
-Proper documentation for both internal and external users of a software application is crucial to its sustained success after deployment. This week, we read Chapter 8 of our assigned textbook (Client-centered Software Development) and Chapters 8 and 9 of the "Teaching Open Source" book. These covered how good documentation complements the practice of frequent, early deployment in software development.
+Proper documentation for both internal and external users of a software application is crucial to its sustained success after deployment. This week, we read Chapter 8 of our assigned textbook ("Client-centered Software Development") and Chapters 8 and 9 of the "Teaching Open Source" book. These covered how good documentation complements the practice of frequent, early deployment in software development.
 
 One important distinction that these readings make is between user documentation and developer documentation. I actually hadn't really made this distinction in my mind before reading! Documentation is documentation, right? These readings devote equal importance to both types but focus more on best practices for user documentation.
 
